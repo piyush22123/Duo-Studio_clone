@@ -1,14 +1,10 @@
 @font-face {
-    font-family: futura;
-    src: url(Futura-Bold.woff);
-}
-@font-face{
-    font-family: Gilroy;
-    src: url(Gilroy-Medium.woff);
+    font-family: PP mori;
+    src: url(/fonts/PPMori-Regular.otf);
 }
 @font-face {
     font-family: PP mori;
-    src: url(PPMori-Regular.otf);
+    src: url(/fonts/Gilroy-Medium.woff);
 }
 *{
     margin: 0;
